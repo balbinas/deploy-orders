@@ -1,0 +1,30 @@
+{
+    "Order" : [ {
+        "id": 1,
+        "RequestId" : 232642,
+        "OrderNumber" : 0,
+        "CustomerCode": 000317412,
+        "CustomerDescription": "SANTANA ENTERPRISES",
+        "JobsiteCode": 0050191919,
+        "JobsiteDescription": "STARBUCKS FREEWAY 101",
+        "UserUpdate": "bsantanam",
+        "Jobsite": {
+            "DateCreated": 06212018,
+            "DateUpdated": 06222018,
+            "SalesOrg": 2001,
+            "OrderStatus": "PEND",
+            "WaitingTime": 2071,
+        },
+        "Hierarchy": {
+            "DateCreated": 08112017,
+            "PreviousOrders": 24,
+            "PreviousDateAndUser": "2018.06.21, bsantanam",
+            "HierarchyCode": 007912894,
+            "Expiration": 31129999,
+            "PreviousOrders": 38,
+            "PreviousDateAndUser": "2018.06.21, bsantanam",
+            "DispatchOffice": "Houston"
+        }
+      }
+    ]
+  }
